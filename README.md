@@ -8,7 +8,8 @@
 $ git clone https://github.com/dustinspecker/angular-new-router-example.git
 $ cd angular-new-router-example
 $ bower install
-$ npm install -g live-server
+$ npm install -g live-server gulp
+$ gulp templates
 $ live-server
 ```
 
