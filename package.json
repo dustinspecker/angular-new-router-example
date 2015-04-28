@@ -1,0 +1,26 @@
+{
+  "name": "angular-new-router-example",
+  "version": "0.0.0",
+  "description": "Angular New Router Example with $componentLoaderProvider",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "dustinspecker/angular-new-router-example",
+  "author": {
+    "name": "Dustin Specker",
+    "email": "DustinSpecker@DustinSpecker.com",
+    "url": "https://github.com/dustinspecker"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "angular",
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

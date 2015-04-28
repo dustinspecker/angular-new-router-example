@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Angular New Router Example</title>
+  <meta charset="utf8">
+</head>
+<body ng-app="angularNewRouterExample">
+  <div ng-controller="MainController as main">
+    {{main.header}}
+  </div>
+
+  <a ng-link="hello">Hello</a>
+  <a ng-link="home">Home</a><br>
+
+  <ng-viewport></ng-viewport>
+
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-new-router/dist/router.es5.js"></script>
+  <script src="app/hello/hello.js"></script>
+  <script src="app/home/home.js"></script>
+  <script src="app/app.js"></script>
+</body>
