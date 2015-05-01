@@ -22,6 +22,6 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-ng-new-router-templates": "dustinspecker/gulp-ng-new-router-templates"
+    "gulp-ng-new-router-templates": "^0.2.0"
   }
 }
